@@ -1,0 +1,145 @@
+
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<title> IEEE-HKN </title>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="http://www.northeastern.edu/hkn">Eta Kappa Nu</a></h1>
+			<p> of <a href="http://www.neu.edu">Northeastern University</a></p>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="hkn_home.html">Home</a></li>
+			<li class="current_page_item"><a href="hkn_officers.html">Officers</a></li>
+			<li><a href="hkn_tutoring.html">Tutoring</a></li>
+			<li><a href="hkn_events.html">Events</a></li>
+			<li><a href="hkn_tech.html">Links</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+			<div id="sidebar">
+			<ul>
+				
+				<li>
+					<h2><br>IEEE-HKN <br>Gamma Beta</h2>
+
+					<p><br><br>Welcome to the HKN at Northeastern! View Current and Past Officer Bio's.</p>
+				</li>
+				<li>
+					<h2>Officer Archive History</h2>
+					<ul>
+						<li><a href="hkn_officers.html">Current Officers</a></li>
+						<li><a href="Officer_Archive/F2012S2013.html">Fall 2012-Spring 2013</a></li>
+						<li><a href="Officer_Archive/F2011S2012.html">Fall 2011-Spring 2012</a></li>
+
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<!-- end #sidebar -->
+	
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">President   </a></h2>
+				<p class="meta"><span class="date">Dimitri Makris</span><span class="posted"> <a href="mailto:presidenthkn@gmail.com">presidenthkn@gmail.com</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Dimitri is going into his fifth year at Northeastern University. He is currently studying Electrical Engineering with a minor in Business Administration. He works part time in the Connections Lab in Dana Research Center. He has interned at Innovent Technologies and has had his co-op positions at Philips Color Kinetics, Draper Labs, and LTX-C. Outside of this position, his leadership experience at Northeastern includes being the Webmaster of HKN, Fall Treasurer of IEEE, and as serving as Vice-President of Northeastern's chapter of the National Society of Leadership and Success.</p>
+				</div>
+			</div>
+			<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Vice President   </a></h2>
+				<p class="meta"><span class="date">Elisa Cheng</span><span class="posted"> <a href="mailto:vicepresidenthkn@gmail.com">vicepresidenthkn@gmail.com</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Elisa is a student of the Class of 2014 and is currently pursuing her BS and MS in Electrical Engineering. She has had co-op positions at NSTAR and KlingStubbins (Jacobs), with interest in power distribution and design. She is also an active member in the engineering community on campus, serving as the Fall President for IEEE, serving as the Treasurer for SASE, and a Peer Mentor for the GE1000 course.</p>
+
+				</div>
+			</div>
+
+<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Treasurer   </a></h2>
+				<p class="meta"><span class="date">Neel Shah</span><span class="posted"> <a href="mailto:treasurerhkn@gmail.com">treasurerhkn@gmail.com</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>
+					Neel a 4th year Electrical and Computer Engineering student. He is on-track to finish BS/MS in Computer Engineering in 5 years. Currently, he is a vice president of IEEE chapter at Northeastern University and treasurer of Eta Kappa Nu. He has done a Research Experience for Undergraduates (REU), working in Prof. David Kaeli's lab on parallel GPU implementation of Speeded Up Robust Features algorithm. He has done two co-ops. The MITRE Corporation, where he worked on a team analyzing side channel attacks on embedded devices. Advanced Micro Devices (AMD), where he worked on a team designing and optimizing Instruction Cache Unit.  In addition he is a peer mentor and also co-founder of Student Research Engagement Committee (SREC), an organization dedicated to help undergraduates involved in research early. 
+					</p>
+
+				</div>
+			</div>
+
+<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Recording Secretary   </a></h2>
+				<p class="meta"><span class="date">Ryan T Burke</span><span class="posted"> <a href="mailto:burke.r@husky.neu.edu">burke.r@husky.neu.edu</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Ryan is a junior electrical engineering major with a minor in Technical Entrepreneurship. He currently serves as recording secretary of Eta Kappa Nu and also tutors for undergraduate electronics and circuits courses. He has co-oped at IXYS Integrated Circuits and the WYSS Institute. He enjoys playing guitar, hockey and football.</p>
+
+				</div>
+			</div>
+
+<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Corresponding Secretary   </a></h2>
+				<p class="meta"><span class="date">Kevin Dixon</span><span class="posted"> <a href="mailto:dixon.k@husky.neu.edu">dixon.k@husky.neu.edu</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p> Kevin is a fourth year Electrical Engineering student.  He has co-oped at Draper laboratories and Hasbro, with an interest in Microelectronics.  He enjoys running, baseball, and snowboarding.</p>
+
+				</div>
+			</div>
+
+			<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Web Master   </a></h2>
+				<p class="meta"><span class="date">Matt McDonald</span><span class="posted"> <a href="mailto:mcdonald.mat@husky.neu.edu">hknwebmaster@gmail.com</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p></p>
+
+				</div>
+			</div>
+
+			<br><br>
+
+			<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Faculty Advisor</a></h2>
+				<p class="meta"><span class="date">Charles A. Dimarzio</span><span class="posted"> <a href="mailto:presidenthkn@gmail.com">dimarzio@ece.neu.edu</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Prof. DiMarzio is associate professor in the departments of Electrical and Computer Engineering and Mechanical and Industrial Engineering. His primary research interest is in biomedical optics.</p>
+
+				</div>
+			</div>
+				</div>
+			</div>
+		<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div style="clear: both;">&nbsp;</div>
+	</div>
+	<div id="footer">
+		<p>IEEE-HKN, Northeastern University Gamma Beta Chapter</p>
+	</div>
+	<!-- end #footer -->
+</body>
+</html>

@@ -1,0 +1,478 @@
+
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="http://www.northeastern.edu/hkn">Eta Kappa Nu</a></h1>
+			<p> of <a href="http://www.neu.edu">Northeastern University</a></p>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="hkn_home.html">Home</a></li>
+			<li><a href="hkn_officers.html">Officers</a></li>
+			<li class="current_page_item"><a href="hkn_tutoring.html">Tutoring</a></li>
+			<li><a href="hkn_events.html">Events</a></li>
+			<li><a href="hkn_tech.html">Links</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Tutoring   </a></h2>
+				<p class="meta"><span 
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+<p>
+HKN offers free tutoring service to all EE and CE Students.  Our tutors are all HKN members and volunteer their time to help any student who needs help. Tutoring among different levels of classes is very common, and often nessecary for success in the class, so don't be shy!  Click a link, and contact one of our friendly tutors.  In most cases, tutors can help in any class, not just what we post here.
+</p>
+
+<p>
+Tutoring walk in hours are available at the following loactions:
+</p>
+<p>
+<!--<table border = "1" align = "center">
+	<tr>
+		<td>Day</td>
+		<td>Time (PM)</td>
+		<td>Room</td>
+		<td>Dates</td>
+	</tr>
+	<tr>
+		<td>Monday</td>
+		<td>6 - 9</td>
+		<td>208 Kariotis</td>
+		<td>1/25 - 4/18</td>
+	</tr>
+	<tr>
+		<td>Tuesday</td>
+		<td>6 - 9</td>
+		<td>264 Ryder</td>
+		<td>1/26 - 4/19</td>
+	</tr>
+	<tr>
+		<td>Wednesday</td>
+		<td>6 - 9</td>
+		<td>45 Snell Library</td>
+		<td>1/27 - 4/20</td>
+	</tr>
+	<tr>
+		<td>Thursday</td>
+		<td>6 - 9</td>
+		<td>299 Ryder</td>
+		<td>1/21 - 4/21</td>
+	</tr>
+	<tr>
+		<td>Friday</td>
+		<td>6 - 9</td>
+		<td>145 Ryder</td>
+		<td>1/22 - 4/15</td>
+	</tr>
+</table>-->
+<iframe src="https://calendar.google.com/calendar/embed?title=Circuits%20%26%20Embedded&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o9c8nlfj9qubeqcm47tonmom6s%40group.calendar.google.com&amp;color=%23B1440E&amp;src=426r9jtdf7tvctquboh0h7ufm8%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</p>
+<p>
+<iframe src="https://calendar.google.com/calendar/embed?title=E-mags%2C%20Electronics%20%26%20Linear%20tutoring&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=cihe1ad0h6j4ivdslplhtcb79s%40group.calendar.google.com&amp;color=%23182C57&amp;src=vnbuqt4l4iljausrjo84gl7vng%40group.calendar.google.com&amp;color=%230F4B38&amp;src=44gdmica3o340bv2qdufbunbuo%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</p>
+<p>
+<iframe src="https://calendar.google.com/calendar/embed?title=Algorithims%2C%20Digital%20Logic%20%26%20Networking&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b8epjdc736iuchhdh9io11r3pk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=r82f3bb9qn2jgmg7cqs9m74sbo%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=bfedo7nhqbod90unl9tan7en20%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</p
+
+<p>
+Tutors may request to meet at a different
+ location if more convenient for them. If the times or locations do not work for y
+ou, just contact our tutors directly via e-mail. Also please let all tutors know i
+n advance by at least two days. They may be able to accomodate you but it is not g
+uarenteed. Remeber, the tutors are busy students as well with their own work they 
+must finish as well! Contact
+presidenthkn@gmail.com if you have any comments or would like to request a tutor for a specific class.
+</p>
+<br>
+
+<!-- List of tutors  
+<h2> The content is being updated! </h4>
+<table border = "1" align = "center">
+        <tr>
+			<td>Major</td> <!-- The Major for the course -->
+			<td>Course</td><!-- Course name and number -->
+			<td>Tutor</td> <!-- Tutors first name -->
+        </tr>	
+	<tr>
+			<td>EE</td>
+			<td>EECE 2150: Circuits and Signals: Biomedical Applications</td>
+			<td>
+				<a href="#wilcoxb">Brian Wilcox</a>
+				<a href="#harrism">Michael Harris</a>
+				<a href="#zengl">Luxi Zeng</a>
+				<a href="#laden">Nick Lade</a>
+				<a href="#regalbutod">Diana Regalbuto</a>
+				<a href="#vincentc">Colin Vincent</a>
+				<a href="#gallagherc">Colleen Gallagher</a>
+				<a href="#ganga">Alyssa Gang</a>
+				<a href="#aldenc">Campbell Alden</a>
+				<a href="#brevettt">Thurston Brevett</a>
+				<a href="#christyb">Brent Christy</a>
+				<a href="#pennimane">Erica Penniman</a>
+				<a href="#carterb">Bryce Carter</a>
+				<a href="#crocij">James Croci</a>
+				<a href="#heregam">Matej Herega</a>
+				<a href="#hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>
+        <tr>
+			<td>CE</td>
+			<td>EECE 2160: Embedded Design Enabling Robotics</td>
+			<td>
+				<a href="#materisen">Nick Materise</a>
+				<a href="#harrism">Michael Harris</a>
+				<a href="#murphym">Matthew Murphy</a>
+				<a href="#regalbutod">Diana Regalbuto</a>
+				<a href="#gallagherc">Colleen Gallagher</a>
+				<a href="#frymoyerd">David Frymoyer</a>
+				<a href="#ganga">Alyssa Gang</a>
+				<a href="#pugliac">Chris Puglia</a>
+				<a href="#vincelettej>">Justin Vincelette</a>
+				<a href="#aldenc">Campbell Alden</a>
+				<a href="#kairyse">Elizabeth Kairys</a>
+				<a href="#brevettt">Thurston Brevett</a>
+				<a href="#brentc">Brent Christy</a>
+				<a href="#vaskevicho">Oleg Vaskevich</a>
+				<a href="#carterb">Bryce Carter</a>
+			</td>
+        </tr>	
+	<tr>
+			<td>EE</td>
+			<td>EECE 2210: Electrical Engineering (for MechE)</td>
+			<td>
+				<a href="#ganga">Alyssa Gang</a>
+				<a href="#hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>	
+        <tr>
+			<td>CE</td>
+			<td>EECE 2322: Fundamentals of Digital Design and Computer Organization</td>
+			<td>
+				<a href="#petersenf">Frederik Petersen</a>
+				<a href="#harrism">Michael Harris</a>
+				<a href="#gallagherc">Colleen Gallagher</a>
+				<a href="#vaskevicho">Oleg Vaskevich</a>
+				<a href="#pennimane">Erica Penniman</a>
+				<a href="#carterb">Bryce Carter</a>
+				<a href="#hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>	
+        <tr>
+			<td>EE</td>
+			<td>EECE 2412: Fundamentals of Electronics</td>
+			<td>
+				<a href="#harrism">Michael Harris</a>
+				<a href="#zengl">Luxi Zeng</a>
+				<a href="#laden">Nick Lade</a>
+				<a href="#vincentc">Colin Vincent</a>
+				<a href="#frymoyerd">David Frymoyer</a>
+				<a href="#brevettt">Thurston Brevett</a>
+				<a href="#christyb">Brent Christy</a>
+				<a href="#pennimane">Erica Penniman</a>
+				<a href="#carterb">Bryce Carter</a>
+				<a href="#crocij">James Croci</a>
+				<a href="#heregam">Matej Herega</a>
+				<a href="#hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>	
+	<tr>
+			<td>EE</td>
+			<td>EECE 2520: Fundamentals of Linear Systems</td>
+			<td>
+				<a href="#materisen">Nick Materise</a>
+				<a href="#frymoyerd">David Frymoyer</a>
+				<a href="#brevettt">Thurston Brevett</a>
+				<a href="#carterb">Bryce Carter</a>
+			</td>
+
+        </tr>
+        <tr>
+        	<td>EE</td>
+			<td>EECE 2530: Fundamentals of Electromagnetics</td>
+			<td>
+				<a href="#materisen">Nick Materise</a>
+				<a href="#laden">Nick Lade</a>
+				<a href="#carterb">Bryce Carter</a>
+				<a href="#crocij">James Croci</a>
+				<a href="#heregam">Matej Herega</a>
+				<a href="hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>
+	<tr>
+			<td>CE</td>
+			<td>EECE 2540: Fundamentals of Networks</td>
+			<td>
+				<a href="#catalanod">Dominic Catalano</a>
+				<a href="#wilcoxb">Brian Wilcox</a>
+				<a href="#soperb">Benjamin Soper</a>
+				<a href="#regalbutod">Diana Regalbuto</a>
+				<a href="#pugliac">Chris Puglia</a>
+				<a href="#aldenc">Campbell Alden</a>
+				<a href="#vaskevicho">Oleg Vaskevich</a>
+			</td>
+        </tr>	
+        <tr>
+			<td>CE</td>
+			<td>EECE 2560: Fundamentals of Engineering Algorithms</td>
+			<td>
+				<a href="#catalanod">Dominic Catalano</a>
+				<a href="#wilcoxb">Brian Wilcox</a>
+				<a href="#soperb">Benjamin Soper</a>
+				<a href="#materisen">Nick Materise</a>
+				<a href="#petersenf">Frederik Petersen</a>
+				<a href="#harrism">Michael Harris</a>
+				<a href="#murphym">Matthew Murphy</a>
+				<a href="#regalbutod">Diana Regalbuto</a>
+				<a href="#frymoyerd">David Frymoyer</a>
+				<a href="#pugliac">Chris Puglia</a>
+				<a href="#brevettt">Thurston Brevett</a>
+				<a href="#christyb">Brent Christy</a>
+				<a href="#vaskevicho">Oleg Vaskevich</a>
+				<a href="#hovaniake">Evan Hovaniak</a>
+			</td>
+        </tr>	
+        <tr>
+			<td>CE</td>
+			<td>EECE 3324: Computer Architecture and Organization</td>
+			<td>
+				<a href="#greenea">Alexander Greene</a>
+				<a href="#vaskevicho">Oleg Vaskevich</a>
+			</td>
+        </tr>
+        <tr>
+			<td>EE</td>
+			<td>EECE 3410: Electronics 2</td>
+			<td>
+				<a href="#crocij">James Croci</a>
+				<a href="#heregam">Matej Herega</a>
+			</td>
+        </tr>
+	<tr>
+		<td>MATH</td>
+		<td>MATH 3081: Probability and Statistics</td>
+		<td>
+			<a href="#soperb">Benjamin Soper</a>
+			<a href="#petersenf">Frederik Petersen</a>
+			<a href="#regalbutod">Diana Regalbuto</a>
+			<a href="#gallagherc">Colleen Gallagher</a>
+			<a href="#conga">Amery Cong</a>
+			<a href="#kairyse">Elizabeth Kairys</a>
+			<a href="#vaskevicho">Oleg Vaskevich</a>
+		</td>
+	</tr>
+	<tr>
+		<td>CS</td>
+		<td>CS 1800: Discrete Structures</td>
+		<td>
+			<a href="#regalbutod">Diana Regalbuto</a>
+			<a href="#aldenc">Campbell Alden</a>
+			<a href="#vaskevicho">Oleg Vaskevich</a>
+			<a href="#pennimane">Erica Penniman</a>
+			<a href="#hovaniake">Evan Hovaniak</a>
+		</td>
+	</tr>
+</table>
+</table>
+<P> &nbsp; <P> &nbsp; <P> &nbsp; <P> &nbsp; <P> &nbsp; <P> &nbsp;
+
+<hr>
+	<a class="name" name="aagudelo">Alexander Agudelo</a>
+	<a class="email" href="mailto:agudelo.a@husky.neu.edu">agudelo.a@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 7 - 8</div>
+	<br>
+	<br>
+	
+	<a class="name" name="agang">Alyssa Gang</a>
+	<a class="email" href="mailto:gang.a@husky.neu.edu">catalano.d@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 8 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="bsoper">Benjamin Soper</a>
+	<a class="email" href="mailto:soper.b@husky.neu.edu">soper.b@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="bchristy">Brent Christy</a>
+	<a class="email" href="mailto:christy.b@husky.neu.edu">christy.b@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="bwilcoxb">Brian Wilcox</a>
+	<a class="email" href="mailtowilcox.b@husky.neu.edu">wilcox.b@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6:30 - 7:30</div>
+	<br>
+	<br>
+
+	<a class="name" name="materisen">Nick Materise</a>
+	<a class="email" href="mailto:materise.n@husky.neu.edu">materise.n@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="petersenf">Frederik Petersen</a>
+	<a class="email" href="mailto:petersen.f@husky.neu.edu">petersen.f@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 6 - 8</div>
+	<br>
+	<br>
+
+	<a class="name" name="harrism">Michael Harris</a>
+	<a class="email" href="mailto:harris.michae@husky.neu.edu">harris.michae@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="zengl">Luxi Zeng</a>
+	<a class="email" href="mailto:zeng.l@husky.neu.edu">zeng.l@husky.neu.edu</a>
+	<div class="availability"> Available: Friday 7 - 8</div>
+	<br>
+	<br>
+
+	<a class="name" name="laden">Nick Lade</a>
+	<a class="email" href="mailto:lade.n@husky.neu.edu">lade.n@husky.neu.edu</a>
+	<div class="availability"> Available: Tuesday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="murphym">Matthew Murphy</a>
+	<a class="email" href="mailto:murphy.matth@husky.neu.edu">murphy.matth@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 6 - 8</div>
+	<br>
+	<br>
+
+	<a class="name" name="regalbutod">Diana Regalbuto</a>
+	<a class="email" href="mailto:regalbuto.d@husky.neu.edu">regalbuto.d@husky.neu.edu</a>
+	<div class="availability"> Available: Tuesday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="vincentc">Colin Vincent</a>
+	<a class="email" href="mailto:vincent.co@husky.neu.edu">vincent.co@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 6:30 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="gallagherc">Colleen Gallagher</a>
+	<a class="email" href="mailto:gallagher.co@husky.neu.edu">gallagher.co@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 7 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="frymoyerd">David Frymoyer</a>
+	<a class="email" href="mailto:frymoyer.d@husky.neu.edu">frymoyer.d@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 7 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="ganga">Alyssa Gang</a>
+	<a class="email" href="mailto:gang.a@husky.neu.edu">gang.a@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 7 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="pugliac">Chris Puglia</a>
+	<a class="email" href="mailto:puglia.c@husky.neu.edu">puglia.c@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="vincelettej">Justin Vincelette</a>
+	<a class="email" href="mailto:vincelette.j@husky.neu.edu">vincelette.j@husky.neu.edu</a>
+	<div class="availability"> Available: Tuesday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="conga">Amery Cong</a>
+	<a class="email" href="mailto:cong.a@husky.neu.edu">cong.a@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 7 - 8</div>
+	<br>
+	<br>
+
+	<a class="name" name="aldenc">Campbell Alden</a>
+	<a class="email" href="mailto:alden.ca@husky.neu.edu">alden.ca@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 7 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="kairyse">Elizabeth Kairys</a>
+	<a class="email" href="mailto:kairys.e@husky.neu.edu">kairys.e@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="brevettt">Thurston Brevett</a>
+	<a class="email" href="mailto:brevett.t@husky.neu.edu">brevett.t@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="christyb">Brent Christy</a>
+	<a class="email" href="mailto:christy.b@husky.neu.edu">christy.b@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="vaskevicho">Oleg Vaskevich</a>
+	<a class="email" href="mailto:vaskevich.o@husky.neu.edu">vaskevich.o@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="pennimane">Erica Penniman</a>
+	<a class="email" href="mailto:penniman.e@husky.neu.edu">penniman.e@husky.neu.edu</a>
+	<div class="availability"> Available: Monday 6:30 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="carterb">Bryce Carter</a>
+	<a class="email" href="mailto:carter.br@husky.neu.edu">carter.br@husky.neu.edu</a>
+	<div class="availability"> Available: Wednesday 6 - 9</div>
+	<br>
+	<br>
+
+	<a class="name" name="crocij">James Croci</a>
+	<a class="email" href="mailto:croci.j@husky.neu.edu">croci.j@husky.neu.edu</a>
+	<div class="availability"> Available: By appointment</div>
+	<br>
+	<br>
+
+	<a class="name" name="heregam">Matej Herega</a>
+	<a class="email" href="mailto:herega.m@husky.neu.edu">herega.m@husky.neu.edu</a>
+	<div class="availability"> Available: Thursday 6 - 7</div>
+	<br>
+	<br>
+
+	<a class="name" name="hovaniake">Evan Hovaniak</a>
+	<a class="email" href="mailto:hovaniak.e@husky.neu.edu">hovaniak.e@husky.neu.edu</a>
+	<div class="availability"> Available: Tuesday 7 - 9</div>
+	<br>
+	<br>
+
+	<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #content -->
+
+	<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+</div>-->
+	<div id="footer">
+		<p>Updated: Today</p>
+	</div>
+	<!-- end #footer -->
+</body>
+</html>
